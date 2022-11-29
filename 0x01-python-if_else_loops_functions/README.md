@@ -1,0 +1,1 @@
+The repo contains exercices of ALX section 2 
