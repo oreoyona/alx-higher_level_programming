@@ -3,7 +3,7 @@
 size_t print_dlistint(const dlistint_t *h)
 {
 	unsigned int x;
-	dlistint_t *runner;
+	const dlistint_t *runner;
 
 	x = 0;
 	runner = h;
