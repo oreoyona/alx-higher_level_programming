@@ -30,7 +30,7 @@ class Rectangle:
 
     @property
     def height(self):
-        """ height getter"""
+        """Get/set the height of the rectangle"""
         return self.__height
     
     @height.setter
