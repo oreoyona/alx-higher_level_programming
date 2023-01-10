@@ -1,0 +1,1 @@
+Just a repo to study inheritance in python
